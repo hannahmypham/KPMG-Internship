@@ -1,4 +1,4 @@
-# KPMG-Internship 
+# Sprocket Central Pty. Ltd - KPMG Internship 
 [Detailed analysis](https://www.linkedin.com/pulse/sprocket-central-pty-ltd-kpmg-internship-hannah-pham/?trackingId=v2TjcCYsTtqMAyYr9VjjOA%3D%3D)
 
 [Tableau dashboard for current customers](https://public.tableau.com/app/profile/hannah.pham.analysis/viz/CustomersSegment_16711893179500/Maindashboard)
